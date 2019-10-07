@@ -1,1 +1,3 @@
 # Recommender-SystemRecommender-System-for-Groceries-Contractor
+
+Groceries are critical part for any Restaurants, Bakery, Breakfast Spot, Brewery, Cafe (with fresh and high quality groceries) etc. Their quality and timely delivery plays a critical role in the serviceability of a vendor. The supply chain's most important element in its supply is distributor or supplier. The location, transportation method, cost and quality plays a significant role. Moreover, the warehouse location plays a critical role in development and progress of a contractor / distributor. The project discusses a method to data mapping, visualization and applying machine learning techniques in order to identify optimum location in a neighborhood in Scarborough of Toronto for a groceries contractor.
